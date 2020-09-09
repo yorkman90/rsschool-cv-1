@@ -8,9 +8,9 @@
 * JS
 * Git
 #### **Education**
-* learn.javascript.ru
-* CS50
-* Hexlet
-* HTML
+* learn.javascript.ru.
+* CS50.
+* Hexlet.
+* HTML.
 #### **English**
 * **Pre-Intermediate**
