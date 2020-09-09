@@ -8,8 +8,8 @@
 * JS
 * Git
 #### **Education**
-* learn.javascript.ru
-* CS50
+* learn.javascript.ru.
+* CS50.
 * Hexlet
 * HTML
 #### **English**
