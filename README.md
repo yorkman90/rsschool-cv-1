@@ -1,1 +1,1 @@
-https://NewUser-nu.github.io/rsschool-cv/cv
+https://NewUser-nu.github.io/rsschool-cv/
